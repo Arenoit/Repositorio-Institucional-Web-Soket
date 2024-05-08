@@ -20,12 +20,14 @@ Necesita una terminal de comando para ejecutar el archivo de secuancia automatiz
 Comandos a ejecutar:
 
 Opción 1
--> composer update
--> php bin/server.php
+
+    composer update
+    php bin/server.php
 
 Opción 2
--> composer update
--> restart_server.bat
+    
+    composer update
+    restart_server.bat
 
 * Composer
 
