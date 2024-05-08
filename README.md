@@ -30,6 +30,7 @@ Opción 2
 * Composer
 
 Los que estan acostumbrados a usar Linux podrán entender de una manera mas clara como funcionan los PATH.
+
 Utiliza Composer por lo tanto deben agregar al PATH la ruta donde está instalado PHP para que se enlace los binarios para poder utilizar comandos PHP.
 
 ## 🧐 Detalles
