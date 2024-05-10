@@ -4,6 +4,8 @@ Debemos que cosiderar que esta versión esta diseñada para remplazar HTTP por W
 
 Autor: David Jiménez
 
+[![Repositorio-Digital.png](https://i.postimg.cc/j23D3zW8/Repositorio-Digital.png)](https://postimg.cc/XBFNpBkF)
+
 ## 👯 Contenido
 Sistema completo 8 módulos para el administrador, módulos usuario final, proyecto en etapa final y en funcionamiento
 - Motor de busqueda filtrado y Autocompletador.
