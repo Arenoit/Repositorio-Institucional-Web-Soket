@@ -51,7 +51,7 @@ Talk to me about
 
 ## 📫 Link de proyecto en la Web
 Actualmente retire el email corporativo de Google recomiendo probar los usuarios: admin, user1, user2, user3, user4 con la contraseña: abc en todos
-- Considerar que este línk es de la versión HTTP, dado que el proveedor debeque proveer permisos de ejecución de segundo plano, impidiendo su fincionamiento
+- Considerar que este línk es de la versión HTTP, dado que el proveedor debe dar permisos de ejecución de segundo plano, impidiendo su fincionamiento
 - [https://projectesis.infinityfreeapp.com/](https://projectesis.infinityfreeapp.com/)
 ---
 ⭐️ Nota
