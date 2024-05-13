@@ -1,6 +1,6 @@
 # Repositorio Institucional 😃
 Software diseñado para alojar archivos educativos | Full-Stack | Visual de funcionamiento Página Web @ [https://projectesis.infinityfreeapp.com/](https://projectesis.infinityfreeapp.com/)
-Debemos que cosiderar que esta versión esta diseñada para remplazar HTTP por Web Socket en el Chat de Usuarios
+Debemos que considerar que esta versión esta diseñada para remplazar HTTP por Web Socket en el Chat de Usuarios
 
 Autor: David Jiménez
 
